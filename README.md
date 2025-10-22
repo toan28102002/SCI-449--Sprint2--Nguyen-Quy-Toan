@@ -1,1 +1,3 @@
-SOS game: (1) the basic components for the game options (board size and game mode) and initial game, and (2) S/O placement for human players without checking for the formation of SOS or determining the winner. The following is a sample interface. The implementation of a GUI is required
+SOS game: 
+- (1) the basic components for the game options (board size and game mode) and initial game, and
+- (2) S/O placement for human players without checking for the formation of SOS or determining the winner. The following is a sample interface. The implementation of a GUI is required
